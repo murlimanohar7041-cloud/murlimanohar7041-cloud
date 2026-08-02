@@ -8,11 +8,10 @@
   </a>
 </p>
 
-
 <h1 align="center">Hi 👋, I'm Murli Manohar Kumar</h1>
 
 <h3 align="center">
-Aspiring Data Scientist | Python Developer | Machine Learning Enthusiast
+Aspiring Data Scientist • Python Developer • Machine Learning Enthusiast
 </h3>
 
 <p align="center">
@@ -20,9 +19,15 @@ Aspiring Data Scientist | Python Developer | Machine Learning Enthusiast
 </p>
 
 <p align="center">
-I'm a B.Tech student passionate about Data Science, Machine Learning, Artificial Intelligence, and Problem Solving.
-I enjoy building real-world projects and continuously improving my programming skills.
+🎓 B.Tech Student | 📊 Data Science Enthusiast | 🤖 AI Learner
 </p>
+
+<p align="center">
+Passionate about building real-world projects with Python, Data Science,
+Machine Learning, and continuously improving my problem-solving skills.
+</p>
+
+
 
 ## 👨‍💻 About Me
 
