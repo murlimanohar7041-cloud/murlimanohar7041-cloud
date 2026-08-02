@@ -97,46 +97,81 @@ I started my programming journey with Web Development, where I built multiple re
   <img src="https://streak-stats.demolab.com?user=murlimanohar7041-cloud&theme=tokyonight&hide_border=true"/>
 </p>
 
+
 ## 🚀 Featured Projects
 
-> 💡 Before transitioning into Data Science, I built several web development projects to strengthen my frontend and problem-solving skills.
+> These projects were built during my Web Development learning journey. I am currently transitioning into Data Science and Machine Learning.
+
+---
 
 ### 🍔 MB Bites – Food Delivery Website
-A responsive food delivery website inspired by modern food ordering platforms.
 
-**🔗 Live Demo:** https://m-bbites.netlify.app
+A responsive food delivery website inspired by modern online food ordering platforms with a clean and user-friendly interface.
 
-**🛠️ Tech Stack:** HTML, CSS, JavaScript
+**🛠️ Tech Stack:** HTML • CSS • JavaScript
+
+🌐 **Live Demo:** https://m-bbites.netlify.app
+
+💻 **GitHub Repository:** https://github.com/murlimanohar7041-cloud/mb-bites
+
+### 📸 Preview
+
+<p align="center">
+  <img src="images/project-name.png" width="800" alt="Project Preview">
+</p>
 
 ---
 
 ### 🎓 Student Support Portal
-A student support platform designed to provide academic resources and student assistance.
 
-**🔗 Live Demo:** https://studentsupportt.netlify.app
+A responsive student support website designed to provide academic resources and student assistance through a simple and modern interface.
 
-**🛠️ Tech Stack:** HTML, CSS, JavaScript
+**🛠️ Tech Stack:** HTML • CSS • JavaScript
+
+🌐 **Live Demo:** https://studentsupportt.netlify.app
+
+💻 **GitHub Repository:** https://github.com/murlimanohar7041-cloud/student-support
+
+### 📸 Preview
+
+<p align="center">
+  <img src="images/project-name.png" width="800" alt="Project Preview">
+</p>
 
 ---
 
-### 📄 ReportHub – Report Generator Website
-A web application for creating and managing reports with a clean and user-friendly interface.
+### 📄 ReportHub – Report Generator
 
-**🔗 Live Demo:** https://reporthubbb.netlify.app
+A report generation website with a clean interface that helps users create and manage reports efficiently.
 
-**🛠️ Tech Stack:** HTML, CSS, JavaScript
+**🛠️ Tech Stack:** HTML • CSS • JavaScript
+
+🌐 **Live Demo:** https://reporthubbb.netlify.app
+
+💻 **GitHub Repository:** https://github.com/murlimanohar7041-cloud/reporthub
+
+
+### 📸 Preview
+
+<p align="center">
+  <img src="images/project-name.png" width="800" alt="Project Preview">
+</p>
 
 ---
 
 ### 🛒 Flipkart Clone
-A responsive e-commerce website inspired by Flipkart's user interface.
 
-**🔗 Live Demo:** https://murlim.netlify.app
+A responsive e-commerce website inspired by Flipkart, built to practice modern frontend development concepts.
 
-**🛠️ Tech Stack:** HTML, CSS, JavaScript
+**🛠️ Tech Stack:** HTML • CSS • JavaScript
+
+🌐 **Live Demo:** https://murlim.netlify.app
+
+💻 **GitHub Repository:** https://github.com/murlimanohar7041-cloud/flipkart-clone
 
 
+### 📸 Preview
 
-
-
-
+<p align="center">
+  <img src="images/project-name.png" width="800" alt="Project Preview">
+</p>
