@@ -2,6 +2,12 @@
   <img src="banner.jpeg" alt="Murli Manohar Banner" width="100%">
 </p>
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Aspiring+Data+Scientist;Python+Developer;Machine+Learning+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+  </a>
+</p>
+
 <h1 align="center">Hi 👋, I'm Murli Manohar Kumar</h1>
 
 <h3 align="center">
@@ -15,6 +21,8 @@ Turning <b>Data</b> into <b>Intelligent Decisions</b> 🚀
 <p align="center">
 I'm a B.Tech student passionate about Data Science, Machine Learning, Artificial Intelligence and Problem Solving.
 </p>
+
+
 
 
 
