@@ -8,11 +8,7 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Aspiring+Data+Scientist;Python+Developer;Machine+Learning+Enthusiast;Open+Source+Learner;Always+Learning+New+Things" alt="Typing SVG" />
-  </a>
-</p>
+
 
 <h1 align="center">Hi 👋, I'm Murli Manohar Kumar</h1>
 
