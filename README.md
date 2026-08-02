@@ -37,6 +37,11 @@ Machine Learning, and continuously improving my problem-solving skills.
 - 🎯 My goal is to become a **Data Scientist / Machine Learning Engineer**.
 
 
+## 💡 My Journey
+
+I started my programming journey with Web Development, where I built multiple responsive websites using HTML, CSS, and JavaScript. Currently, I am transitioning into Data Science and Machine Learning, focusing on Python, NumPy, Pandas, and real-world AI projects.
+
+
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
@@ -91,6 +96,44 @@ Machine Learning, and continuously improving my problem-solving skills.
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=murlimanohar7041-cloud&theme=tokyonight&hide_border=true"/>
 </p>
+
+## 🚀 Featured Projects
+
+> 💡 Before transitioning into Data Science, I built several web development projects to strengthen my frontend and problem-solving skills.
+
+### 🍔 MB Bites – Food Delivery Website
+A responsive food delivery website inspired by modern food ordering platforms.
+
+**🔗 Live Demo:** https://m-bbites.netlify.app
+
+**🛠️ Tech Stack:** HTML, CSS, JavaScript
+
+---
+
+### 🎓 Student Support Portal
+A student support platform designed to provide academic resources and student assistance.
+
+**🔗 Live Demo:** https://studentsupportt.netlify.app
+
+**🛠️ Tech Stack:** HTML, CSS, JavaScript
+
+---
+
+### 📄 ReportHub – Report Generator Website
+A web application for creating and managing reports with a clean and user-friendly interface.
+
+**🔗 Live Demo:** https://reporthubbb.netlify.app
+
+**🛠️ Tech Stack:** HTML, CSS, JavaScript
+
+---
+
+### 🛒 Flipkart Clone
+A responsive e-commerce website inspired by Flipkart's user interface.
+
+**🔗 Live Demo:** https://murlim.netlify.app
+
+**🛠️ Tech Stack:** HTML, CSS, JavaScript
 
 
 
