@@ -9,7 +9,6 @@
 </p>
 
 
-
 <h1 align="center">Hi 👋, I'm Murli Manohar Kumar</h1>
 
 <h3 align="center">
@@ -17,12 +16,14 @@ Aspiring Data Scientist | Python Developer | Machine Learning Enthusiast
 </h3>
 
 <p align="center">
-Turning <b>Data</b> into <b>Intelligent Decisions</b> 🚀
+💡 Turning <b>Data</b> into <b>Intelligent Decisions</b>
 </p>
 
 <p align="center">
-I'm a B.Tech student passionate about Data Science, Machine Learning, Artificial Intelligence and Problem Solving.
+I'm a B.Tech student passionate about Data Science, Machine Learning, Artificial Intelligence, and Problem Solving.
+I enjoy building real-world projects and continuously improving my programming skills.
 </p>
+
 
 
 
