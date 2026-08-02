@@ -24,6 +24,16 @@ I'm a B.Tech student passionate about Data Science, Machine Learning, Artificial
 I enjoy building real-world projects and continuously improving my programming skills.
 </p>
 
+## 👨‍💻 About Me
+
+🎓 I'm a B.Tech student passionate about Data Science and Artificial Intelligence.
+
+🐍 Currently strengthening my skills in Python, NumPy, Pandas, and Data Structures & Algorithms.
+
+🌱 I enjoy building real-world projects and continuously learning new technologies.
+
+🎯 My goal is to become a Data Scientist / Machine Learning Engineer.
+
 
 
 
