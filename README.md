@@ -28,16 +28,16 @@ Machine Learning, and continuously improving my problem-solving skills.
 </p>
 
 
-
 ## 👨‍💻 About Me
 
-🎓 I'm a B.Tech student passionate about Data Science and Artificial Intelligence.
+- 🎓 B.Tech Student passionate about **Data Science, Machine Learning, and AI**.
+- 🐍 Currently learning **Python, NumPy, Pandas, DSA, and Machine Learning**.
+- 💻 I also have basic knowledge of **Java, C, C++, HTML, CSS, and JavaScript**.
+- 🚀 I enjoy building real-world projects and improving my problem-solving skills.
+- 🎯 My goal is to become a **Data Scientist / Machine Learning Engineer**.
 
-🐍 Currently strengthening my skills in Python, NumPy, Pandas, and Data Structures & Algorithms.
 
-🌱 I enjoy building real-world projects and continuously learning new technologies.
 
-🎯 My goal is to become a Data Scientist / Machine Learning Engineer.
 
 
 
