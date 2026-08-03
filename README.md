@@ -175,3 +175,84 @@ A responsive e-commerce website inspired by Flipkart, built to practice modern f
 <p align="center">
   <img src="E-commerce.png" width="800" alt="Project Preview">
 </p>
+
+
+
+## 🏅 Certifications
+
+<table>
+<tr>
+<td width="70%">
+
+### 🎓 IBM Data Science Fundamentals
+Completed foundational concepts of Data Science including data analysis, visualization, and machine learning basics.
+
+**📄 <a href="./IBM Datafundamental.jpeg" target="_blank">View Certificate</a>**
+
+</td>
+</tr>
+
+<tr>
+<td width="70%">
+
+### 🎓 Git & GitHub Masterclass
+Learned Git version control, GitHub workflows, repositories, branching, and collaboration.
+
+**📄 <a href="./GIT & GITHUB.jpeg" target="_blank">View Certificate</a>**
+
+</td>
+</tr>
+
+<tr>
+<td width="70%">
+
+### 🎓 NASSCOM AI & Machine Learning
+Completed AI & Machine Learning foundation program by NASSCOM.
+
+**📄 <a href="./NASS Com AI & ML.jpeg" target="_blank">View Certificate</a>**
+
+</td>
+</tr>
+
+<tr>
+<td width="70%">
+
+### 🎓 Technika Participation
+Participated in technical learning and innovation event.
+
+**📄 <a href="./technika.jpeg" target="_blank">View Certificate</a>**
+
+</td>
+</tr>
+
+<tr>
+<td width="70%">
+
+### 🎓 Google Cloud - Introduction to Gemini for Google Workspace
+
+**📄 <a href="./Coursera  Introduction to Gemini For Google Workspace.jpeg" target="_blank">View Certificate</a>**
+
+</td>
+</tr>
+
+<tr>
+<td width="70%">
+
+### 🎓 Ethical Leadership Through Giving Voice To Values
+
+**📄 <a href="./Coursera  Ethics Leadership Through Giving Voice To Values.jpeg" target="_blank">View Certificate</a>**
+
+</td>
+</tr>
+
+<tr>
+<td width="70%">
+
+### 🎓 Ethics, Technology and Engineering
+
+**📄 <a href="./Coursera  Ethics , Technology and Enineering.jpeg" target="_blank">View Certificate</a>**
+
+</td>
+</tr>
+
+</table>
