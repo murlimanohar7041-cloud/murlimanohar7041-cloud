@@ -117,7 +117,7 @@ A responsive food delivery website inspired by modern online food ordering platf
 ### 📸 Preview
 
 <p align="center">
-  <img src="images/food delivery.png" width="800" alt="Project Preview">
+  <img src="food delivery.png" width="800" alt="Project Preview">
 </p>
 
 ---
@@ -135,7 +135,7 @@ A responsive student support website designed to provide academic resources and 
 ### 📸 Preview
 
 <p align="center">
-  <img src="images/student support.png" width="800" alt="Project Preview">
+  <img src="student support.png" width="800" alt="Project Preview">
 </p>
 
 ---
@@ -154,7 +154,7 @@ A report generation website with a clean interface that helps users create and m
 ### 📸 Preview
 
 <p align="center">
-  <img src="images/Report Hub.png" width="800" alt="Project Preview">
+  <img src="Report Hub.png" width="800" alt="Project Preview">
 </p>
 
 ---
@@ -173,5 +173,5 @@ A responsive e-commerce website inspired by Flipkart, built to practice modern f
 ### 📸 Preview
 
 <p align="center">
-  <img src="images/E-commerce.png" width="800" alt="Project Preview">
+  <img src="E-commerce.png" width="800" alt="Project Preview">
 </p>
