@@ -112,7 +112,7 @@ A responsive food delivery website inspired by modern online food ordering platf
 
 🌐 **Live Demo:** https://m-bbites.netlify.app
 
-💻 **GitHub Repository:** https://github.com/murlimanohar7041-cloud/mb-bites
+💻 **GitHub Repository:** https://github.com/murlimanohar7041-cloud/food-delivery
 
 ### 📸 Preview
 
@@ -130,7 +130,7 @@ A responsive student support website designed to provide academic resources and 
 
 🌐 **Live Demo:** https://studentsupportt.netlify.app
 
-💻 **GitHub Repository:** https://github.com/murlimanohar7041-cloud/student-support
+💻 **GitHub Repository:** https://github.com/murlimanohar7041-cloud/Students-Support
 
 ### 📸 Preview
 
@@ -148,7 +148,7 @@ A report generation website with a clean interface that helps users create and m
 
 🌐 **Live Demo:** https://reporthubbb.netlify.app
 
-💻 **GitHub Repository:** https://github.com/murlimanohar7041-cloud/reporthub
+💻 **GitHub Repository:** https://github.com/murlimanohar7041-cloud/Report-Hub
 
 
 ### 📸 Preview
@@ -167,7 +167,7 @@ A responsive e-commerce website inspired by Flipkart, built to practice modern f
 
 🌐 **Live Demo:** https://murlim.netlify.app
 
-💻 **GitHub Repository:** https://github.com/murlimanohar7041-cloud/flipkart-clone
+💻 **GitHub Repository:** https://github.com/murlimanohar7041-cloud/m-stokes
 
 
 ### 📸 Preview
