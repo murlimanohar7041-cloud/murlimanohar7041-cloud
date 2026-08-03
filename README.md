@@ -180,6 +180,11 @@ A responsive e-commerce website inspired by Flipkart, built to practice modern f
 
 ## 🏅 Certifications
 
+<p align="center">
+  <img src="All certification.png" width="100%" alt="Murli Certifications"/>
+</p>
+
+
 <table>
 <tr>
 <td width="70%">
