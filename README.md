@@ -98,6 +98,11 @@ I started my programming journey with Web Development, where I built multiple re
 </p>
 
 
+## 📈 Contribution Graph
+
+[![Murli's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=murlimanohar7041-cloud&theme=tokyo-night&hide_border=true)](https://github.com/murlimanohar7041-cloud)
+
+
 ## 🚀 Featured Projects
 
 > These projects were built during my Web Development learning journey. I am currently transitioning into Data Science and Machine Learning.
