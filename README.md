@@ -251,6 +251,7 @@ Participated in technical learning and innovation event.
 </tr>
 
 <tr>
+  
 <td width="70%">
 
 ### 🎓 Ethics, Technology and Engineering
@@ -261,3 +262,23 @@ Participated in technical learning and innovation event.
 </tr>
 
 </table>
+
+
+
+## 🤝 Connect With Me
+
+<p align="center">
+
+<a href="mailto:murlimanohar7041@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/murlimanohar7041-cloud">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/murli-manohar-kumar-b59895384/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
