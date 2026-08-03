@@ -47,12 +47,12 @@ Aspiring Data Scientist • Machine Learning Enthusiast • AI Learner
 
 💻 I also have knowledge of:
 
-- Java
+- Java(Basic)
 - C
 - C++
-- HTML
-- CSS
-- JavaScript
+- HTML(Basic)
+- CSS(Basic)
+- JavaScript(Basic)
 
 🎯 **Career Goal**
 
@@ -337,13 +337,6 @@ A responsive e-commerce website inspired by Flipkart to practice frontend develo
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=murlimanohar7041-cloud&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</p>
 
 ---
 
