@@ -151,7 +151,7 @@ A modern and responsive food delivery website inspired by online food ordering p
 
 `HTML` • `CSS` • `JavaScript`
 
-🔗 **Live Demo:** https://m-bbites.netlify.app
+🔗 **Live Demo:** https://food-delivery-bmgnzszmr-murli-manohar.vercel.app
 
 📂 **Repository:** https://github.com/murlimanohar7041-cloud/food-delivery
 
