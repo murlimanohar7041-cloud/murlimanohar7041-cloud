@@ -153,7 +153,7 @@ A modern and responsive food delivery website inspired by online food ordering p
 
 🔗 **Live Demo:** https://food-delivery-bmgnzszmr-murli-manohar.vercel.app
 
-📂 **Repository:** https://github.com/murlimanohar7041-cloud/food-delivery
+📂 **Repository:** https://github.com/murlimanohar7041-cloud/food-delivery-app
 
 ### 📸 Preview
 
