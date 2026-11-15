@@ -291,6 +291,15 @@ A responsive e-commerce website inspired by Flipkart to practice frontend develo
 
 ---
 
+
+### 🎓 NPTEL Programming in Java – Elite Certificate
+
+📚 Successfully completed the 12-week Programming in Java course by **NPTEL, IIT Kharagpur** with an **Elite Certificate (79%)**.
+
+📄 **[View Certificate](nptel-java.jpeg)**
+
+---
+
 ### 🎓 Technika Participation
 
 📚 Participated in a technical innovation and learning event.
