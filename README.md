@@ -163,7 +163,7 @@ A modern and responsive food delivery website inspired by online food ordering p
 
 ---
 
-## 🎓 Student Support Portal
+## 🎓 Institute management
 
 A responsive student support platform designed to help students access resources through a clean interface.
 
@@ -178,14 +178,14 @@ A responsive student support platform designed to help students access resources
 
 `HTML` • `CSS` • `JavaScript`
 
-🔗 **Live Demo:** https://studentsupportt.netlify.app
+🔗 **Live Demo:** https://institute-managementt-system.netlify.app
 
-📂 **Repository:** https://github.com/murlimanohar7041-cloud/Students-Support
+📂 **Repository:** https://github.com/murlimanohar7041-cloud/institute-management-system
 
 ### 📸 Preview
 
 <p align="center">
-<img src="student support.png" width="700">
+<img src="Institute management.png" width="700">
 </p>
 
 ---
